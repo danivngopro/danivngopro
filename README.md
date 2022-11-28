@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **danivngopro@gmail.com**
 
-- ⚡ Fun fact **I love dogs**
+- ⚡ Fun fact: **I love dogs**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
