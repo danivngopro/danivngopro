@@ -10,6 +10,8 @@
 
 - 👨‍💻 All of my projects are available at [portfolio.sharpervn.com](portfolio.sharpervn.com)
 
+- 📫 my portfolio website https://portfolio.sharpervn.com
+
 - 📫 How to reach me **danivngopro@gmail.com**
 
 - ⚡ Fun fact **I love dogs**
