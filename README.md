@@ -8,8 +8,6 @@
 
 - 🌱 I’m currently learning **React Native, Backend Python**
 
-- 👨‍💻 All of my projects are available at [portfolio.sharpervn.com](portfolio.sharpervn.com)
-
 - 📫 my portfolio website https://portfolio.sharpervn.com
 
 - 📫 How to reach me **danivngopro@gmail.com**
