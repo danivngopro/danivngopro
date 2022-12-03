@@ -25,5 +25,5 @@
 
 &nbsp;
 <p>
-<img  align="left" width="400" src="https://github-readme-stats.vercel.app/api?username=danivngopro&show_icons=true&locale=en" alt="danivngopro" />
-<img align="right" width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=danivngopro&" alt="danivngopro" /></p>
+<img  align="left" width="370" src="https://github-readme-stats.vercel.app/api?username=danivngopro&show_icons=true&locale=en" alt="danivngopro" />
+<img align="right" width="370" src="https://github-readme-streak-stats.herokuapp.com/?user=danivngopro&" alt="danivngopro" /></p>
