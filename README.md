@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Daniel</h1>
 <h3 align="center">A passionate fullstack developer</h3>
  
-<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/a5/35/60/a53560c8088900e266880f779dacced7.gif" />
+<img align="right" alt="Coding" width="370" src="https://i.pinimg.com/originals/a5/35/60/a53560c8088900e266880f779dacced7.gif" />
 
 - 🔭 I’m currently working on [Aman Forms](https://github.com/TechOpsAman/AmanFormsFront)
 
@@ -25,5 +25,5 @@
 
 &nbsp;
 <p>
-<img  align="left" width="450" src="https://github-readme-stats.vercel.app/api?username=danivngopro&show_icons=true&locale=en" alt="danivngopro" />
-<img align="right" width="450" src="https://github-readme-streak-stats.herokuapp.com/?user=danivngopro&" alt="danivngopro" /></p>
+<img  align="left" width="400" src="https://github-readme-stats.vercel.app/api?username=danivngopro&show_icons=true&locale=en" alt="danivngopro" />
+<img align="right" width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=danivngopro&" alt="danivngopro" /></p>
