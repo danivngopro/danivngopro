@@ -1,6 +1,6 @@
 ![MasterHead](https://www.pramukhdigital.com/wp-content/uploads/2018/07/New-PNC-Animated-Banners.gif)
 <h1 align="center">Hi 👋, I'm Daniel</h1>
-<h3 align="center">A passionate fullstack developer</h3>
+<h3 align="center">A passionate App & Website developer</h3>
  
 <img align="right" alt="Coding" width="370" src="https://i.pinimg.com/originals/a5/35/60/a53560c8088900e266880f779dacced7.gif" />
 
